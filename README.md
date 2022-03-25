@@ -1,9 +1,8 @@
-### Hi there 👋
+Olá 👋
 
-<!--
-**Benior/Benior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--Benior/Benior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+-->
 
 - 🔭 Aprendendo lógica de programação
 - 🌱 Estou aprendendo pela Generation
