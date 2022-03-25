@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 Estou aprendendo pela Generation
 - 📫 Como me encontrar: benior.santos@gmail.com
 - 😄 Pronomes: Ele / He
-- ⚡ Fato engraçado: Estou perdido na vida ainda
+- ⚡ Fato engraçado: Estou perdido na vida AINDA
