@@ -4,7 +4,7 @@ Olá 👋
 Here are some ideas to get you started:
 -->
 
-- 🔭 Aprendendo lógica de programação
+- 🔭 Aprendendo a programar em Java
 - 🌱 Estou aprendendo pela Generation
 - 📫 Como me encontrar: benior.santos@gmail.com
 - 😄 Pronomes: Ele / He
