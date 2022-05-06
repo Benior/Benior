@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Estudando programação em Java, MySpL, SpringBoot
-- 🌱 Em formação pela Generation Brasil
+- 🔭 Designer Gráfico com foco em vetores e motion
+- 🌱 Estudando programação pela Generation Brasil
 - 😄 Pronomes: Ele / He
 - ⚡ Fato engraçado: Sempre disposto a aceitar um café
 
