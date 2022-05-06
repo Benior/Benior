@@ -1,15 +1,16 @@
-### Olá 👋
+<h1> Olá 👋 </h1>
+<br>
 <div>
  <img align="right" alt="Ben-pic" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
-</div> <br><br>
+</div> <br>
 <!--Benior/Benior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-- 🔭 Designer Gráfico com foco em vetores e motion
-- 🌱 Estudando programação pela Generation Brasil
-- 😄 Pronomes: Ele / He
-- ⚡ Fato engraçado: Sempre disposto a aceitar um café
+<h4>- 🔭 Designer Gráfico com foco em vetores e motion<br>
+- 🌱 Estudando programação pela Generation Brasil<br>
+- 😄 Pronomes: Ele / He<br>
+- ⚡ Fato engraçado: Sempre disposto a aceitar um café </h4>
 
 <br><br>
 
