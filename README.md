@@ -8,9 +8,6 @@ Here are some ideas to get you started:
 - 🌱 Em formação pela Generation Brasil
 - 😄 Pronomes: Ele / He
 - ⚡ Fato engraçado: Sempre disposto a aceitar um café
-<br><br>
-
-##
 
 <br><br>
 
