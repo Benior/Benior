@@ -7,10 +7,10 @@
 Here are some ideas to get you started:
 -->
 
-<h4>- 🔭 Designer Gráfico com foco em vetores e motion<br>
+- 🔭 Designer Gráfico com foco em vetores e motion<br>
 - 🌱 Estudando programação pela Generation Brasil<br>
 - 😄 Pronomes: Ele / He<br>
-- ⚡ Fato engraçado: Sempre disposto a aceitar um café </h4>
+- ⚡ Fato engraçado: Sempre disposto a aceitar um café
 
 <br><br>
 
