@@ -1,5 +1,7 @@
 ### Olá 👋
-
+<div>
+ <img align="right" alt="Ben-pic" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
+</div> <br><br>
 <!--Benior/Benior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
