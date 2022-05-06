@@ -22,20 +22,16 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   &emsp;
   &emsp;
-  &emsp;
   <img align="center" alt="Ben-Jav" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   &emsp;
   &emsp;
-  &emsp;
   <img align="center" alt="Ben-Sql" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  &emsp;
   &emsp;
   &emsp;
   <img align="center" alt="Ben-Spr" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <br>
   <br>
   <br>
-  &emsp;
   &emsp;
   &emsp;
   <img align="center" alt="Ben-Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
