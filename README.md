@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/Benior">
   <img height="200em" img align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="167em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+   </div>
+   <div align="right">
+  <img height="203em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   ##
