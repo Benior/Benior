@@ -1,27 +1,22 @@
 <h1> Olá 👋 </h1>
 <br>
-<div>
- <img align="right" alt="Ben-pic" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
-</div> <br>
-<!--Benior/Benior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
 - 🔭 Designer Gráfico com foco em vetores e motion<br>
 - 🌱 Estudando programação pela Generation Brasil<br>
 - 😄 Pronomes: Ele / He<br>
 - ⚡ Fato engraçado: Sempre disposto a aceitar um café
-
 <br><br>
-
+<div>
+ <img align="right" alt="Ben-pic" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
+</div>
+<br>
 <div align="right">
   <a href="https://github.com/Benior">
   <img height="200em" img align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="203em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-  
-  ##
-  <br>
+</div>  
+ 
+ ##
+ 
 <div style="display: inline_block align-items: center">
  &emsp;
  &emsp;
