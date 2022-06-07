@@ -1,3 +1,10 @@
+<div align="right">
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+ </div>
+ <div align="left">
+  <img height="203em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+<br><br><br><br><br><br><br><br><br><br>
 <h1> Olá 👋 </h1>
 
 <div margin-bottom="10px">
@@ -46,12 +53,7 @@
  <a href="mailto:benior.santos@gmail.com" target="_blank"><img height="60" src="https://www.svgrepo.com/show/353812/google-gmail.svg" target="_blank"></a>
 </div>  
 
-<div align="right">
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
- </div>
- <div align="left">
-  <img height="203em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+
 
 
 ##
