@@ -1,23 +1,16 @@
 <h1> Olá 👋 </h1>
-<br>
+
+<div margin-bottom="10px">
+ <img align="right" alt="Ben-pic" height="500px" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
 - 🔭 Designer Gráfico com foco em vetores e motion<br>
 - 🌱 Estudando programação pela Generation Brasil<br>
 - 😄 Pronomes: Ele / He<br>
 - ⚡ Fato engraçado: Sempre disposto a aceitar um café
-<br><br>
-<div>
- <img align="right" alt="Ben-pic" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
 </div>
-<br>
-<div align="right">
-  <a href="https://github.com/Benior">
-  <img height="200em" img align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="203em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>  
  
  ##
  
-<div style="display: inline_block align-items: center">
+<div>
  &emsp;
  &emsp;
   <img align="center" alt="Ben-Jav" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -52,5 +45,11 @@
  <a href="https://www.linkedin.com/in/beniorcardoso/" target="_blank"><img height="60" src="https://www.svgrepo.com/show/75820/linkedin.svg" target="_blank"></a>&emsp;
  <a href="mailto:benior.santos@gmail.com" target="_blank"><img height="60" src="https://www.svgrepo.com/show/353812/google-gmail.svg" target="_blank"></a>
 </div>  
-  
+
+<div align="right">
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="203em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
+
 ##
