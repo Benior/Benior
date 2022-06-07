@@ -1,8 +1,8 @@
 <div align="right">
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img wight="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
  </div>
  <div align="left">
-  <img height="203em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <br><br><br><br><br><br><br><br><br><br>
 <h1> Olá 👋 </h1>
