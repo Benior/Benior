@@ -1,14 +1,9 @@
-<div align="right">
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
- </div>
- <div align="left">
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 <h1> Olá 👋 </h1>
 
 <div margin-bottom="10px">
- <img align="right" alt="Ben-pic" height="500px" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
+ <img align="right" alt="Ben-pic" height="400px" src="https://media.giphy.com/media/1Mw3ImihOaLtJHvJvL/giphy.gif">
 - 🔭 Designer Gráfico com foco em vetores e motion<br>
 - 🌱 Estudando programação pela Generation Brasil<br>
 - 😄 Pronomes: Ele / He<br>
@@ -51,9 +46,17 @@
  <a href="https://www.instagram.com/beniord" target="_blank"><img height="60" src="https://www.svgrepo.com/show/111199/instagram.svg" target="_blank"></a>&emsp;
  <a href="https://www.linkedin.com/in/beniorcardoso/" target="_blank"><img height="60" src="https://www.svgrepo.com/show/75820/linkedin.svg" target="_blank"></a>&emsp;
  <a href="mailto:benior.santos@gmail.com" target="_blank"><img height="60" src="https://www.svgrepo.com/show/353812/google-gmail.svg" target="_blank"></a>
-</div>  
+</div>
 
+##
 
+<br><br><br>
+<div align="right">
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=Benior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+ </div>
+ <div align="left">
+  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benior&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
 
 ##
